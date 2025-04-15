@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyAppChaeMj</string>
+    <string name="hello_world">Hello World!!!</string> // 문자열 선언
+</resources>
